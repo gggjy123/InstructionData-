@@ -7,7 +7,7 @@ This is the repository of our empirical study about instruction data.
 
 ## Dataset
 
-We present the original four instructions datasets in [data](https://github.com/gggjy123/InstructionData-/tree/main/Datas/MathInstruct.json).
+We present the original four instructions datasets in [data](https://github.com/gggjy123/InstructionData-/tree/main/Datas/MathInstruct.json). 
 
 
 

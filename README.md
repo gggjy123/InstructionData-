@@ -13,7 +13,7 @@ We present the original four instructions datasets in [data](https://github.com/
 
 ## Code
 
-We present the source code of four research reqestions in [code](https://github.com/gggjy123/InstructionData-/tree/main/Code/RQ1/quality_selection.py)
+We present the source code of four research questions in [code](https://github.com/gggjy123/InstructionData-/tree/main/Code/RQ1/quality_selection.py)
 
 
 
